@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Rajput</h1>
+<h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">Final Year B.Tech CSE Student | Java Developer | Full Stack Web Developer | DSA Enthusiast</h3>
 
 ---
