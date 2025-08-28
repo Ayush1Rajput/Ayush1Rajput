@@ -33,6 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayush1Rajput&show_icons=true&theme=react" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush1Rajput&layout=compact&theme=react" height="150"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ayush1Rajput&theme=react" alt="Ayush's GitHub Streak" />
 </p>
 
 ---
