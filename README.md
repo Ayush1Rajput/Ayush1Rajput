@@ -43,7 +43,6 @@
 - ☕ Advanced Java, Spring Boot, JPA/Hibernate
 - 🧮 System Design (Low-Level + High-Level)
 - 🌐 Next.js with App Router
-- 🛠️ .NET and C# (for versatility)
 
 ---
 
