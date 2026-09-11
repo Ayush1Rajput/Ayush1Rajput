@@ -71,7 +71,7 @@ Building scalable systems • Writing clean Java • Learning every day
 
 ☕ Advanced Java & Backend Patterns  
 🏗️ System Design (LLD + HLD)  
-🌐 Next.js (App Router & modern React patterns)  
+🌐 Next.js (App Router & modern React patterns) 
 
 ---
 
@@ -86,7 +86,7 @@ Building scalable systems • Writing clean Java • Learning every day
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn → <a href="www.linkedin.com/in/ayush--ayush/">Ayush Rajput</a>  
+💼 LinkedIn → <a href="www.linkedin.com/in/ayush--ayush">Ayush .</a>  
 📧 Email → **ayushraj1rajput@gmail.com**
 
 ---
